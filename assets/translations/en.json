@@ -1,0 +1,12 @@
+{
+  "notesList": "Notes list",
+  "settingsLanguage": "Language",
+  "logout": "Logout",
+  "errorEmptyTitle": "Title must not be empty",
+  "errorEmptyDescription": "Description must not be empty",
+  "errorTitleLength": "Title must contain from {min} to {max} chars",
+  "errorDescriptionLength": "Description must contain from {min} to {max} chars",
+  "errorCommon": "Something went wrong",
+  "en": "English",
+  "ru": "Русский"
+}

@@ -1,0 +1,12 @@
+{
+    "notesList": "Список заметок",
+    "settingsLanguage": "Язык",
+    "logout": "Выйти",
+    "errorEmptyTitle": "Название не должно быть пустым",
+    "errorEmptyDescription": "Описание не должно быть пустым",
+    "errorTitleLength": "В названии должно быть от {min} до {max} символов",
+    "errorDescriptionLength": "В описании должно быть от {min} до {max} символов",
+    "errorCommon": "Что-то пошло не так",
+    "en": "English",
+    "ru": "Русский"
+}
